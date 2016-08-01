@@ -4,6 +4,7 @@
   "description": "fcc react getting started example",
   "main": "webpack.config.js",
   "scripts": {
+    "start": "webpack-dev-server --content-base dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
